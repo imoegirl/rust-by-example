@@ -10,3 +10,10 @@
 - [p4_tuples](./src/p4_tuples.rs) 关于元组
 - [p5_array_slices](./src/p5_array_slices.rs) 数组和切片
 
+### Day 2 [2020-11-17]
+
+- [p6_struct](./src/p6_struct.rs) 各种类型结构体，构造，解构
+- [p7_enum](./src/p7_enum.rs) 枚举的定义，match 匹配，类型别名
+- [p8_enum_linked_list](./src/p8_enum_linked_list) 使用枚举构建链表，use 的使用，box，递归
+- [p9_constants](./src/p9_constants.rs) 常量的定义，static 和 const
+- [p10_aliasing](./src/p10_aliasing.rs) 数据类型别名，类型的强制转换
