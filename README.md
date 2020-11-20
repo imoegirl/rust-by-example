@@ -14,9 +14,9 @@
 
 - [p006_struct](./src/p006_struct.rs) 各种类型结构体，构造，解构
 - [p007_enum](./src/p007_enum.rs) 枚举的定义，match 匹配，类型别名
-- [p008_enum_linked_list](./src/p008_enum_linked_list) 使用枚举构建链表，use 的使用，box，递归
+- [p008_enum_linked_list](./src/p008_enum_linked_list.rs) 使用枚举构建链表，use 的使用，box，递归
 - [p009_constants](./src/p009_constants.rs) 常量的定义，static 和 const
-- [p10_aliasing](./src/p10_aliasing.rs) 数据类型别名，类型的强制转换
+- [p010_aliasing](./src/p010_aliasing.rs) 数据类型别名，类型的强制转换
 
 ### Day 3 [2020-11-20]
 
