@@ -41,7 +41,7 @@ impl Display for Color {
 }
 
 pub fn run() {
-    println!("p3_formatting >>>>>>>>");
+    println!("p003_formatting >>>>>>>>");
     for city in [
         City {
             name: "Dublin",

@@ -7,7 +7,7 @@ fn is_big(n: i32) -> bool {
 }
 
 pub fn run() {
-    println!("p9_constants >>>>>>>>");
+    println!("p009_constants >>>>>>>>");
     let n = 16;
     println!("this is {}", LANGUAGE);
     println!("The threshold is {}", THRESHOLD);

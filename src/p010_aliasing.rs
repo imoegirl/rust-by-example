@@ -5,7 +5,7 @@ type Inch = u64;
 type u64_t = u64;
 
 pub fn run() {
-    println!("p10_aliasing >>>>>>>>");
+    println!("p010_aliasing >>>>>>>>");
     let nanoseconds: NanoSecond = 6 as u64_t;
     let inches: Inch = 2 as u64_t;
     println!("nanoseconds: {} inches: {}", nanoseconds, inches);

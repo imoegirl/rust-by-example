@@ -6,7 +6,7 @@ fn analyze_slice(slice: &[i32]) {
 }
 
 pub fn run() {
-    println!("p5_array_slices >>>>>>>>");
+    println!("p005_array_slices >>>>>>>>");
     let xs: [i32; 5] = [1, 2, 3, 4, 5];
     let ys: [i32; 500] = [0; 500];
 

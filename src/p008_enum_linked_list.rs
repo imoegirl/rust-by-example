@@ -30,7 +30,7 @@ impl List {
 }
 
 pub fn run() {
-    println!("p8_enum_linked_list >>>>>>>>");
+    println!("p008_enum_linked_list >>>>>>>>");
     let mut list = List::new();
     list = list.prepend(1);
     list = list.prepend(2);

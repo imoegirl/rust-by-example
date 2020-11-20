@@ -16,7 +16,7 @@ impl fmt::Display for List {
 }
 
 pub fn run() {
-    println!("p2_impl_display >>>>>>>>");
+    println!("p002_impl_display >>>>>>>>");
     let v = List(vec![1, 2, 3]);
     println!("{}", v);
     println!("\n");

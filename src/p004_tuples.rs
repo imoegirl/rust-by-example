@@ -17,7 +17,7 @@ impl std::fmt::Display for Matrix {
 }
 
 pub fn run() {
-    println!("p4_tuples >>>>>>>>");
+    println!("p004_tuples >>>>>>>>");
     let t1 = (15, false);
     let rev_t1 = reverse(t1);
     println!("{:?} -> {:?}", t1, rev_t1);

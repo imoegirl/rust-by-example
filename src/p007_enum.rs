@@ -37,7 +37,7 @@ impl VeryVerboseEnumOfthingsToDoWithNumbers {
 }
 
 pub fn run() {
-    println!("p7_enum >>>>>>>>");
+    println!("p007_enum >>>>>>>>");
     let pressed = WebEvent::KeyPress('x');
     let pasted = WebEvent::Paste("my text".to_owned());
     let click = WebEvent::Click { x: 20, y: 80 };

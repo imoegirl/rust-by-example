@@ -42,7 +42,7 @@ fn square(p: Point, width: f32) -> Rectangle {
 }
 
 pub fn run() {
-    println!("p6_struct >>>>>>>>");
+    println!("p006_struct >>>>>>>>");
     let name = "Peter";
     let age = 27;
     let peter = Person { name, age };

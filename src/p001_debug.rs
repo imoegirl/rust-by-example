@@ -5,7 +5,7 @@ struct Person<'a> {
 }
 
 pub fn run() {
-    println!("p1_debug >>>>>>>>");
+    println!("p001_debug >>>>>>>>");
     let name = "Peter";
     let age = 22;
     let peter = Person { name, age };
