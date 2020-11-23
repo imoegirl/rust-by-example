@@ -23,3 +23,10 @@
 - [p011_from_into](./src/p011_from_into.rs) 类型之间的转换
 - [p012_tryfrom_tryinto](./src/p012_tryfrom_tryinto.rs) 尝试类型之前的转换，处理有可能出错的情况
 - [p013_tostring_fromstring](./src/p013_tostring_fromstring.rs) 某个类型，转换成字符串，将字符串，转换成某个类型
+
+### Day 4 [2020-11-23]
+
+- [p014_if](./src/p014_if.rs) if 语法
+- [p015_loop](./src/p015_loop.rs) loop 语法，loop 标签
+- [p016_while](./src/p016_while.rs) while 语法
+- [p017_for_and_range](./src/p017_for_and_range.rs) for in 语法，for in iter、into_iter、iter_mut 的使用
