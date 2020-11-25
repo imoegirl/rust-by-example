@@ -20,6 +20,9 @@ mod p019_match_destructuring_tuple;
 mod p020_match_destructuring_enum;
 mod p021_match_pointer_ref;
 mod p022_match_struct;
+mod p023_match_bind_variable;
+mod p024_if_let;
+mod p025_while_let;
 
 fn main() {
     p001_debug::run();
@@ -44,5 +47,7 @@ fn main() {
     p020_match_destructuring_enum::run();
     p021_match_pointer_ref::run();
     p022_match_struct::run();
-
+    p023_match_bind_variable::run();
+    p024_if_let::run();
+    p025_while_let::run();
 }
