@@ -30,3 +30,11 @@
 - [p015_loop](./src/p015_loop.rs) loop 语法，loop 标签
 - [p016_while](./src/p016_while.rs) while 语法
 - [p017_for_and_range](./src/p017_for_and_range.rs) for in 语法，for in iter、into_iter、iter_mut 的使用
+
+### Day 5 [2020-11-25]
+
+- [p018_match](./src/p018_match.rs) 使用 match 匹配
+- [p019_match_destructuring_tuple](./src/p019_match_destructuring_tuple.rs) 使用 match 解构元祖
+- [p020_match_destructuring_enum](./src/p020_match_destructuring_enum.rs) 使用 match 解构结构体
+- [p021_match_pointer_ref](./src/p021_match_pointer_ref.rs) 使用 match 解构引用
+- [p022_match_struct](./src/p022_match_struct.rs) 使用 match 解构结构体

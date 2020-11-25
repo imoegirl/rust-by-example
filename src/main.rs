@@ -15,6 +15,11 @@ mod p014_if;
 mod p015_loop;
 mod p016_while;
 mod p017_for_and_range;
+mod p018_match;
+mod p019_match_destructuring_tuple;
+mod p020_match_destructuring_enum;
+mod p021_match_pointer_ref;
+mod p022_match_struct;
 
 fn main() {
     p001_debug::run();
@@ -34,4 +39,10 @@ fn main() {
     p015_loop::run();
     p016_while::run();
     p017_for_and_range::run();
+    p018_match::run();
+    p019_match_destructuring_tuple::run();
+    p020_match_destructuring_enum::run();
+    p021_match_pointer_ref::run();
+    p022_match_struct::run();
+
 }
