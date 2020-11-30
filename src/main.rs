@@ -23,6 +23,7 @@ mod p022_match_struct;
 mod p023_match_bind_variable;
 mod p024_if_let;
 mod p025_while_let;
+mod p026_function_methods;
 
 fn main() {
     p001_debug::run();
@@ -50,4 +51,5 @@ fn main() {
     p023_match_bind_variable::run();
     p024_if_let::run();
     p025_while_let::run();
+    p026_function_methods::run();
 }

@@ -41,3 +41,7 @@
 - [p023_match_bind_variable](./src/p023_match_bind_variable.rs) 在 match 匹配中，将匹配到的范围值绑定到一个变量上
 - [p024_if_let](./src/p024_if_let.rs) 使用 if let 简化 match
 - [p025_while_let](./src/p025_while_let.rs) 使用 while let 简化循环中的 match
+
+### Day 6 [2020-11-30]
+
+- [p026_function_methods](./src/p026_function_methods.rs) 函数，impl
