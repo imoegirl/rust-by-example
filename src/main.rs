@@ -24,6 +24,11 @@ mod p023_match_bind_variable;
 mod p024_if_let;
 mod p025_while_let;
 mod p026_function_methods;
+mod p027_closure;
+mod p028_closure_capture;
+mod p029_closure_as_input;
+mod p030_function_as_input;
+mod p031_closure_as_output;
 
 fn main() {
     p001_debug::run();
@@ -52,4 +57,9 @@ fn main() {
     p024_if_let::run();
     p025_while_let::run();
     p026_function_methods::run();
+    p027_closure::run();
+    p028_closure_capture::run();
+    p029_closure_as_input::run();
+    p030_function_as_input::run();
+    p031_closure_as_output::run();
 }

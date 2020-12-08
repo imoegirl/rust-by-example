@@ -45,3 +45,10 @@
 ### Day 6 [2020-11-30]
 
 - [p026_function_methods](./src/p026_function_methods.rs) 函数，impl
+
+### Day 7 [2020-12-08]
+- [p027_closure](./src/p027_closure.rs) 最基本的闭包
+- [p028_closure_capture](./src/p028_closure_capture.rs) 闭包捕获外部变量的三种方式，Fn FnMut FnOnce
+- [p029_closure_as_input](./src/p029_closure_as_input.rs) 将闭包作为函数的参数
+- [p030_function_as_input](./src/p030_function_as_input.rs) 满足 trait 约束的函数，也可以作为函数参数
+- [p031_closure_as_output](./src/p031_closure_as_output.rs) 闭包作为函数的返回值，也就是在函数中创造一个闭包，并返回
