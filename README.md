@@ -52,3 +52,4 @@
 - [p029_closure_as_input](./src/p029_closure_as_input.rs) 将闭包作为函数的参数
 - [p030_function_as_input](./src/p030_function_as_input.rs) 满足 trait 约束的函数，也可以作为函数参数
 - [p031_closure_as_output](./src/p031_closure_as_output.rs) 闭包作为函数的返回值，也就是在函数中创造一个闭包，并返回
+- [p032_higher_order_function](./src/p032_higher_order_function.rs) 高阶函数

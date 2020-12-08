@@ -29,6 +29,7 @@ mod p028_closure_capture;
 mod p029_closure_as_input;
 mod p030_function_as_input;
 mod p031_closure_as_output;
+mod p032_higher_order_function;
 
 fn main() {
     p001_debug::run();
@@ -62,4 +63,5 @@ fn main() {
     p029_closure_as_input::run();
     p030_function_as_input::run();
     p031_closure_as_output::run();
+    p032_higher_order_function::run();
 }
