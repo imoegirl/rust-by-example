@@ -30,6 +30,11 @@ mod p029_closure_as_input;
 mod p030_function_as_input;
 mod p031_closure_as_output;
 mod p032_higher_order_function;
+mod p033_mod_visibility;
+mod p034_struct_visibility;
+mod p035_use;
+mod p036_super_self;
+mod p037_split_file;
 
 fn main() {
     p001_debug::run();
@@ -64,4 +69,9 @@ fn main() {
     p030_function_as_input::run();
     p031_closure_as_output::run();
     p032_higher_order_function::run();
+    p033_mod_visibility::run();
+    p034_struct_visibility::run();
+    p035_use::run();
+    p036_super_self::run();
+    p037_split_file::run();
 }

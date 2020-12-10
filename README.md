@@ -53,3 +53,9 @@
 - [p030_function_as_input](./src/p030_function_as_input.rs) 满足 trait 约束的函数，也可以作为函数参数
 - [p031_closure_as_output](./src/p031_closure_as_output.rs) 闭包作为函数的返回值，也就是在函数中创造一个闭包，并返回
 - [p032_higher_order_function](./src/p032_higher_order_function.rs) 高阶函数
+
+### Day 8 [2020-12-10]
+- [p033_mod_visibility](./src/p033_mod_visibility.rs) 模块的可见性
+- [p034_struct_visibility](./src/p034_struct_visibility.rs) 结构体字段可见性
+- [p035_use](./src/p035_use.rs) 使用 use
+- [p036_super_self](./src/p036_super_self.rs) 使用 super 和 self 关键字，消除访问歧义
