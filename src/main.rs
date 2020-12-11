@@ -35,6 +35,17 @@ mod p034_struct_visibility;
 mod p035_use;
 mod p036_super_self;
 mod p037_split_file;
+mod p038_cfg;
+mod p038_generic;
+mod p039_generic_function;
+mod p040_generic_impl;
+mod p041_generic_trait;
+mod p042_trait_bound;
+mod p043_empty_bound;
+mod p044_multiple_bounds;
+mod p045_where_bound;
+mod p046_newtype;
+mod p047_assoc_types;
 
 fn main() {
     p001_debug::run();
@@ -74,4 +85,15 @@ fn main() {
     p035_use::run();
     p036_super_self::run();
     p037_split_file::run();
+    p038_cfg::run();
+    p038_generic::run();
+    p039_generic_function::run();
+    p040_generic_impl::run();
+    p041_generic_trait::run();
+    p042_trait_bound::run();
+    p043_empty_bound::run();
+    p044_multiple_bounds::run();
+    p045_where_bound::run();
+    p046_newtype::run();
+    p047_assoc_types::run();
 }

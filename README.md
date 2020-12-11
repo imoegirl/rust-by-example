@@ -59,3 +59,17 @@
 - [p034_struct_visibility](./src/p034_struct_visibility.rs) 结构体字段可见性
 - [p035_use](./src/p035_use.rs) 使用 use
 - [p036_super_self](./src/p036_super_self.rs) 使用 super 和 self 关键字，消除访问歧义
+- [p037_split_file](./src/p037_split_file/mod.rs) 代码写在多个文件里
+
+### Day 9 [2020-12-11]
+- [p038_cfg](./src/p038_cfg.rs) 使用 cfg 控制编译
+- [p038_generic](./src/p038_generic.rs) 泛型
+- [p039_generic_function](./src/p039_generic_function.rs) 泛型函数
+- [p040_generic_impl](./src/p040_generic_impl.rs) 泛型 impl
+- [p041_generic_trait](./src/p041_generic_trait.rs) 泛型 trait
+- [p042_trait_bound](./src/p042_trait_bound.rs) 泛型约束
+- [p043_empty_bound](./src/p043_empty_bound) 空类型约束
+- [p044_multiple_bounds](./src/p044_multiple_bounds.rs) 多重约束
+- [p045_where_bound](./src/p045_where_bound.rs) 使用 where 语句约束
+- [p046_newtype](./src/p046_newtype.rs) 自定义类型
+- [p047_assoc_types](./src/p047_assoc_types.rs) 关联类型，type 写在 trait 里
