@@ -73,3 +73,8 @@
 - [p045_where_bound](./src/p045_where_bound.rs) 使用 where 语句约束
 - [p046_newtype](./src/p046_newtype.rs) 自定义类型
 - [p047_assoc_types](./src/p047_assoc_types.rs) 关联类型，type 写在 trait 里
+
+### Day 10 [2020-12-15]
+- [p048_ownership](./src/p048_ownership.rs) 所有权
+- [p049_reference](./src/p049_reference.rs) 可变引用和不可变引用的使用
+- [p050_ref.rs](./src/p050_ref.rs) ref 关键字在解构中的使用

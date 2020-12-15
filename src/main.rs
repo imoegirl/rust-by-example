@@ -46,6 +46,9 @@ mod p044_multiple_bounds;
 mod p045_where_bound;
 mod p046_newtype;
 mod p047_assoc_types;
+mod p048_ownership;
+mod p049_reference;
+mod p050_ref;
 
 fn main() {
     p001_debug::run();
@@ -96,4 +99,7 @@ fn main() {
     p045_where_bound::run();
     p046_newtype::run();
     p047_assoc_types::run();
+    p048_ownership::run();
+    p049_reference::run();
+    p050_ref::run();
 }
