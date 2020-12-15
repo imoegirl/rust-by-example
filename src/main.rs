@@ -49,6 +49,7 @@ mod p047_assoc_types;
 mod p048_ownership;
 mod p049_reference;
 mod p050_ref;
+mod p051_lifetime;
 
 fn main() {
     p001_debug::run();
@@ -102,4 +103,5 @@ fn main() {
     p048_ownership::run();
     p049_reference::run();
     p050_ref::run();
+    p051_lifetime::run();
 }

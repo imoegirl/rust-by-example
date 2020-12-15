@@ -78,3 +78,4 @@
 - [p048_ownership](./src/p048_ownership.rs) 所有权
 - [p049_reference](./src/p049_reference.rs) 可变引用和不可变引用的使用
 - [p050_ref.rs](./src/p050_ref.rs) ref 关键字在解构中的使用
+- [p051_lifetime.rs](./src/p051_lifetime.rs) 生命周期的各种使用方式
