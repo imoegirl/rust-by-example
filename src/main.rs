@@ -50,6 +50,12 @@ mod p048_ownership;
 mod p049_reference;
 mod p050_ref;
 mod p051_lifetime;
+mod p052_trait;
+mod p053_trait_derive;
+mod p054_trait_ops;
+mod p055_trait_drop;
+mod p056_iterators;
+mod p057_clone;
 
 fn main() {
     p001_debug::run();
@@ -104,4 +110,10 @@ fn main() {
     p049_reference::run();
     p050_ref::run();
     p051_lifetime::run();
+    p052_trait::run();
+    p053_trait_derive::run();
+    p054_trait_ops::run();
+    p055_trait_drop::run();
+    p056_iterators::run();
+    p057_clone::run();
 }

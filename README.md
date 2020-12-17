@@ -79,3 +79,11 @@
 - [p049_reference](./src/p049_reference.rs) 可变引用和不可变引用的使用
 - [p050_ref.rs](./src/p050_ref.rs) ref 关键字在解构中的使用
 - [p051_lifetime.rs](./src/p051_lifetime.rs) 生命周期的各种使用方式
+
+### Day 11 [2020-12-17]
+- [p052_trait](./src/p052_trait.rs) trait的实现
+- [p053_trait_derive](./src/p053_trait_derive.rs) trait的派生
+- [p054_trait_ops](./src/p054_trait_ops.rs) 运算符重载
+- [p055_trait_drop](./src/p055_trait_drop.rs) drop销毁
+- [p056_iterators](./src/p056_iterators.rs) 迭代器
+- [p057_clone](./src/p057_clone.rs) clone的使用
