@@ -56,6 +56,9 @@ mod p054_trait_ops;
 mod p055_trait_drop;
 mod p056_iterators;
 mod p057_clone;
+mod p058_panic;
+mod p059_option_unwrap;
+mod p060_map;
 
 fn main() {
     p001_debug::run();
@@ -116,4 +119,7 @@ fn main() {
     p055_trait_drop::run();
     p056_iterators::run();
     p057_clone::run();
+    p058_panic::run();
+    p059_option_unwrap::run();
+    p060_map::run();
 }

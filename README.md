@@ -87,3 +87,8 @@
 - [p055_trait_drop](./src/p055_trait_drop.rs) drop销毁
 - [p056_iterators](./src/p056_iterators.rs) 迭代器
 - [p057_clone](./src/p057_clone.rs) clone的使用
+
+### Day 12 [2020-12-28]
+- [p058_panic](./src/p058_panic.rs) 主动 panic
+- [p059_option_unwrap](./src/p059_option_unwrap.rs) unwrap 操作
+- [p060_map](./src/p060_map.rs) 使用 Option 的 map 代替 match
