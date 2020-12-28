@@ -9,7 +9,9 @@ fn function_os() {
 }
 
 #[cfg(target_os = "macos")]
-fn function_os() {println!("Function on Macos"); }
+fn function_os() {
+    println!("Function on Macos");
+}
 
 #[cfg(not(target_os = "linux"))]
 fn function_not_linux() {
