@@ -59,6 +59,7 @@ mod p057_clone;
 mod p058_panic;
 mod p059_option_unwrap;
 mod p060_map;
+mod p061_and_then;
 
 fn main() {
     p001_debug::run();
@@ -122,4 +123,5 @@ fn main() {
     p058_panic::run();
     p059_option_unwrap::run();
     p060_map::run();
+    p061_and_then::run();
 }
